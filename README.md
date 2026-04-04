@@ -3,6 +3,7 @@
 </p>
 # 💫 Hi 👋, I'm Suripogu Vengakavya
 **Aspiring Full-Stack Web Developer | React + Spring Boot | AI & LLM Enthusiast | India**
+Passionate about building real-world applications and continuously improving my skills 🚀
 
 Email Me 👉 ✉️ **suripogukavya@gmail.com** For Collaboration/Projects or Anything Else. 😊
 
@@ -55,9 +56,9 @@ I enjoy turning ideas into working projects and experimenting with new technolog
 ![Java EE](https://img.shields.io/badge/JavaEE-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Theoretical-blue?style=for-the-badge)
-![ML](https://img.shields.io/badge/ML-Theoretical-orange?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Theoretical-green?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge)
+![ML](https://img.shields.io/badge/ML-Learning-orange?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Learning-green?style=for-the-badge)
 
 ---
 
