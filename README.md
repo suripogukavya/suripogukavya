@@ -67,6 +67,15 @@ I enjoy turning ideas into working projects and experimenting with new technolog
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suripogukavya&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=suripogukavya&theme=radical">
 </div>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
