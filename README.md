@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github.png" width="200" alt="Suripogu Vengakavya" />
+</p>
 # 💫 Hi 👋, I'm Suripogu Vengakavya
 **Aspiring Full-Stack Web Developer | React + Spring Boot | AI & LLM Enthusiast | India**
 
